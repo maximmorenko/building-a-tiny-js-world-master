@@ -43,3 +43,4 @@ const cat = {
   });
   
   description.map(el => print(el.join('; ')));
+  
